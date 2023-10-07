@@ -1,5 +1,5 @@
 # RETROSPECTIVA:
-En este trabajo estuvo bueno al principio nos costo un poco, pero entre todos pudimos solucionar los problemas que nos iba dando el programa.
+En este trabajo al principio nos costo un poco, pero entre todos pudimos solucionar los problemas que nos iba dando el programa.
 ## Listado de participantes del grupo :
 1. ARCE, Alejandro
 2. BELLIDO, Guillermo
